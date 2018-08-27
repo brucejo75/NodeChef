@@ -29,7 +29,7 @@ Now you can follow the directions [here](https://nodechef.com/docs/node/global/l
 ## EXAMPLE
 1. Enter the name of the domain in Custom domain settings:
 
-![alt text](https://github.com/brucejo75/NodeChef/blob/master/Add%20Custom%20Domain.png "Add Custom Domain")
+![alt text](https://github.com/brucejo75/NodeChef/blob/master/Add%20Custom%20Domain%204.png "Add Custom Domain")
 
 In the picture `sub.sub.yourdomain.com` was the added domain.
 
